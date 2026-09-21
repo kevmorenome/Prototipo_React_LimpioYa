@@ -1,0 +1,1 @@
+export {useServicios} from './index';
