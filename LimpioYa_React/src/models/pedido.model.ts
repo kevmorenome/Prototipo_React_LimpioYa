@@ -1,1 +1,0 @@
-export type OrderStatus='Recibido'|'En proceso'|'Listo'|'Entregado'; export interface Order {id:string;clientId:string;client:string;service:string;items:number;total:number;status:OrderStatus;date:string;delivery:string}

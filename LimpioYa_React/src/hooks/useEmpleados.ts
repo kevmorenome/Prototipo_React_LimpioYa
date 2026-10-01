@@ -1,1 +1,0 @@
-export {useEmpleados} from './index';

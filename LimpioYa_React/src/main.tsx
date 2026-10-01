@@ -1,1 +1,0 @@
-import{createRoot}from'react-dom/client';import{AppRoutes}from'./routes/AppRoutes';import{AppProviders}from'./context/AppProviders';import'./styles.css';createRoot(document.getElementById('root')!).render(<AppProviders><AppRoutes/></AppProviders>);

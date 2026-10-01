@@ -1,1 +1,0 @@
-export {usePagos} from './index';
